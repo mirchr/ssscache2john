@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Author: Rich Mirch @0xm1rch
-# Description: Convert SSSD LDAP cache file to John The Ripper format
+# Description: Convert SSSD cache files to John The Ripper format
 # Tested on: Kali GNU/Linux Rolling 2019.1
 #
 # Example:
